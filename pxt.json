@@ -1,10 +1,11 @@
 {
-    "name": "https://github.com/keyestudio2019/pxt-pca9685-smallest",
+    "name": "https://github.com/mworkfun/pxt-pca9685-smallest",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-pca9685": "github:keyestudio2019/pxt-pca9685-smallest#73ff1cdce73149e360175fd2adefa9ec738848f1"
     },
     "files": [
         "main.blocks",
